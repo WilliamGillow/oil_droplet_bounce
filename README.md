@@ -7,4 +7,6 @@ The data was generated using direct numerical simulation code written in the ope
 
 
 The video is also here. We see that over time, the model and DNS become further apart, which will be due to propagation of errors caused by the simplifications and approximations made. We do see good agreement throughout the initial bounce though, which is the most important part.
+
+
 ![video](https://github.com/WilliamGillow/oil_droplet_bounce/blob/main/oil_droplet_interface_shape_comparison.gif)
